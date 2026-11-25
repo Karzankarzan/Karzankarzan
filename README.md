@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Karzan Mohammed
 
-<!--
-**Karzankarzan/Karzankarzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical and building services engineer with a background in HVAC operations
+building systems, and data-driven fault detection.
 
-Here are some ideas to get you started:
+- PhD researcher at Eindhoven University of Technology (TU/e), working on fault
+  detection and diagnosis for air handling units using Bayesian networks
+- Currently training as a Machine Learning Engineer (Data Science and MLOps)
+- Based in the Cologne area, Germany
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+Python, pandas, NumPy, scikit-learn, pyAgrum, MATLAB/Simulink, Git
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/karzanmohammed/ 
